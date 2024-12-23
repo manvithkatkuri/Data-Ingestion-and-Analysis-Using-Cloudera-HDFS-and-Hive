@@ -2,6 +2,9 @@
 
 This project demonstrates the process of ingesting, storing, and analyzing large datasets using Cloudera, Hadoop Distributed File System (HDFS), and Hive, all implemented within a Docker containerized environment. The workflow showcases an end-to-end pipeline for managing big data, from raw data ingestion to querying and analysis, providing scalable and efficient solutions for data processing.
 
+[View Vedio Presentation of Project](https://drive.google.com/file/d/1kW3RSCkIG1WT9nb2BHtUDmnIPBIIjv6Y/view?usp=drive_link)
+
+
 ## Project Overview
 
 ### Objectives:
